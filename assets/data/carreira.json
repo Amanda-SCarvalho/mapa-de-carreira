@@ -1,127 +1,235 @@
 {
   "seo": {
-    "title": "Sarah Lima | Mapa de Carreira em Tecnologia",
-    "description": "Mapa de carreira de Sarah Lima, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
-    "author": "Sarah Lima",
-    "canonicalUrl": "https://exemplo.com/mapa-de-carreira/"
+    "title": "Amanda Carvalho | Desenvolvedora Full Stack",
+    "description": "Portfólio e trajetória profissional de Amanda Carvalho, desenvolvedora Full Stack com foco em interfaces modernas, automação, arquitetura de software e liderança em tecnologia.",
+    "author": "Amanda Carvalho",
+    "canonicalUrl": "https://amanda-scarvalho.github.io/"
   },
+
   "profile": {
-    "name": "Sarah Lima",
-    "headline": "Educacao, Web e Gestao de TI",
-    "photo": "assets/images/profile.jpg",
-    "photoAlt": "Foto profissional de Sarah Lima",
-    "summary": "Tenho experiencia em desenvolvimento web, educacao e gestao de tecnologia. Participei de projetos que transformaram ideias em solucoes digitais e agora organizo meu mapa de carreira com foco em aprendizagem continua, colaboracao e impacto profissional.",
-    "cvUrl": "#"
+    "name": "Amanda Carvalho",
+    "headline": "Desenvolvedora Full Stack | React | Next.js | IA & Arquitetura de Software",
+    "summary": "Sou desenvolvedora apaixonada por tecnologia, design moderno e soluções digitais inteligentes. Tenho experiência com desenvolvimento frontend, interfaces responsivas, APIs, automação e inteligência artificial. Meu objetivo é evoluir continuamente em arquitetura de software, liderança técnica e gestão estratégica de tecnologia.",
+    "photo": "assets/images/profile.png",
+    "photoAlt": "Foto de Amanda Carvalho",
+    "cvUrl": "assets/docs/curriculo-amanda.pdf"
   },
+
   "contacts": [
     {
-      "label": "sarah.lima@example.com",
-      "url": "mailto:sarah.lima@example.com"
+      "label": "GitHub",
+      "url": "https://github.com/amanda-scarvalho"
     },
     {
-      "label": "linkedin.com/in/sarahlima",
-      "url": "https://www.linkedin.com/in/sarahlima"
+      "label": "LinkedIn",
+      "url": "https://linkedin.com/in/amanda-scarvalho"
     },
     {
-      "label": "github.com/sarahlima",
-      "url": "https://github.com/sarahlima"
+      "label": "E-mail",
+      "url": "mailto:amandacarvalho.dev@gmail.com"
     }
   ],
+
   "careerSteps": [
     {
-      "title": "Desenvolvedora Junior",
-      "description": "Consolidar fundamentos de desenvolvimento web, versionamento, acessibilidade, logica de programacao e boas praticas de comunicacao em equipe.",
+      "title": "Início na Programação",
+      "description": "Primeiros contatos com lógica de programação, desenvolvimento web e construção de interfaces modernas utilizando HTML, CSS e JavaScript.",
       "softSkills": [
-        "Comunicacao clara para pedir ajuda e registrar aprendizados.",
-        "Organizacao para estudar, praticar e acompanhar tarefas.",
-        "Curiosidade para investigar problemas e testar solucoes."
+        "Curiosidade",
+        "Aprendizado contínuo",
+        "Criatividade",
+        "Organização"
       ],
       "roadmap": [
-        "HTML semantico",
-        "CSS responsivo",
+        "HTML5",
+        "CSS3",
         "JavaScript",
-        "Git e GitHub",
-        "Acessibilidade"
+        "Git",
+        "GitHub"
       ]
     },
+
     {
-      "title": "Desenvolvedora Pleno",
-      "description": "Atuar com mais autonomia, participar de decisoes tecnicas e entregar funcionalidades com qualidade, testes e documentacao.",
+      "title": "Desenvolvimento Frontend Moderno",
+      "description": "Evolução na criação de interfaces modernas, componentização e experiências responsivas utilizando React e tecnologias atuais.",
       "softSkills": [
-        "Responsabilidade sobre entregas e prazos combinados.",
-        "Colaboracao em revisoes de codigo e planejamento.",
-        "Capacidade de explicar escolhas tecnicas para diferentes publicos."
+        "Comunicação",
+        "Design Thinking",
+        "Trabalho em equipe",
+        "Resolução de problemas"
       ],
       "roadmap": [
         "React",
-        "Node.js",
-        "APIs REST",
-        "Testes automatizados",
-        "Banco de dados"
+        "Tailwind CSS",
+        "Next.js",
+        "Figma",
+        "TypeScript"
       ]
     },
+
     {
-      "title": "Lideranca tecnica",
-      "description": "Contribuir para padroes de arquitetura, orientar pessoas em desenvolvimento e apoiar a tomada de decisao tecnica com base em dados e contexto.",
+      "title": "Aplicações Full Stack & APIs",
+      "description": "Desenvolvimento de aplicações completas integrando frontend, backend, banco de dados e APIs REST.",
       "softSkills": [
-        "Mentoria com escuta ativa e feedback construtivo.",
-        "Priorizacao entre impacto, custo, risco e aprendizado.",
-        "Visao sistemica sobre produto, pessoas e tecnologia."
+        "Pensamento analítico",
+        "Autonomia",
+        "Gestão de tempo",
+        "Adaptabilidade"
       ],
       "roadmap": [
-        "Arquitetura de software",
-        "Cloud",
-        "Observabilidade",
-        "Seguranca"
+        "Node.js",
+        "Express",
+        "MySQL",
+        "MongoDB",
+        "REST API"
+      ]
+    },
+
+    {
+      "title": "Automação & Inteligência Artificial",
+      "description": "Exploração de automações, IA generativa e soluções inteligentes aplicadas ao desenvolvimento de produtos digitais.",
+      "softSkills": [
+        "Inovação",
+        "Pesquisa",
+        "Visão estratégica",
+        "Criatividade técnica"
+      ],
+      "roadmap": [
+        "Python",
+        "OpenAI API",
+        "Machine Learning",
+        "Automação",
+        "IA Generativa"
+      ]
+    },
+
+    {
+      "title": "Infraestrutura & Arquitetura Escalável",
+      "description": "Foco em cloud computing, deploy, containers e arquitetura moderna para aplicações escaláveis e performáticas.",
+      "softSkills": [
+        "Visão sistêmica",
+        "Planejamento",
+        "Tomada de decisão",
+        "Liderança técnica"
+      ],
+      "roadmap": [
+        "Docker",
+        "AWS",
+        "CI/CD",
+        "System Design",
+        "Cloud Computing"
+      ]
+    },
+
+    {
+      "title": "Liderança Técnica & Gestão de Tecnologia",
+      "description": "Evolução para liderança técnica, gestão de equipes, estratégia de produto e tomada de decisões em tecnologia.",
+      "softSkills": [
+        "Liderança",
+        "Gestão de pessoas",
+        "Comunicação estratégica",
+        "Visão de produto"
+      ],
+      "roadmap": [
+        "Tech Lead",
+        "Gestão Ágil",
+        "Arquitetura de Software",
+        "Product Thinking",
+        "Gestão de TI"
       ]
     }
   ],
+
   "skillGroups": [
     {
       "title": "Frontend",
       "skills": [
         {
-          "name": "HTML, CSS e JavaScript",
-          "level": 85
+          "name": "HTML/CSS",
+          "level": 95
+        },
+        {
+          "name": "JavaScript",
+          "level": 90
         },
         {
           "name": "React",
-          "level": 70
+          "level": 88
+        },
+        {
+          "name": "Next.js",
+          "level": 82
+        },
+        {
+          "name": "TypeScript",
+          "level": 75
         }
       ]
     },
+
     {
-      "title": "Backend e dados",
+      "title": "Backend & APIs",
       "skills": [
         {
-          "name": "Node.js e APIs",
-          "level": 65
+          "name": "Node.js",
+          "level": 72
         },
         {
-          "name": "SQL",
-          "level": 60
+          "name": "Python",
+          "level": 85
+        },
+        {
+          "name": "APIs REST",
+          "level": 82
+        },
+        {
+          "name": "MySQL",
+          "level": 74
+        }
+      ]
+    },
+
+    {
+      "title": "Design & Ferramentas",
+      "skills": [
+        {
+          "name": "Figma",
+          "level": 88
+        },
+        {
+          "name": "Git/GitHub",
+          "level": 90
+        },
+        {
+          "name": "UI/UX",
+          "level": 84
         }
       ]
     }
   ],
+
   "otherSkills": [
-    "Git",
-    "Comunicacao",
-    "Documentacao",
-    "Code review"
+    "Responsividade",
+    "SEO",
+    "Acessibilidade",
+    "Versionamento",
+    "Scrum",
+    "Automação",
+    "IA",
+    "Design Systems",
+    "Arquitetura de Software",
+    "Cloud Computing",
+    "Gestão de TI"
   ],
+
   "languages": [
     {
-      "name": "Portugues",
+      "name": "Português",
       "level": "Nativo"
     },
     {
-      "name": "Ingles",
-      "level": "Tecnico"
-    },
-    {
-      "name": "Espanhol",
-      "level": "Profissional"
+      "name": "Inglês",
+      "level": "Intermediário"
     }
   ]
 }
